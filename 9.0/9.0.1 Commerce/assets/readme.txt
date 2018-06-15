@@ -1,1 +1,0 @@
-Drop all files here as outlined in the installation documents
